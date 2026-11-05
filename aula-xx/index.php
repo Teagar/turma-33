@@ -16,21 +16,20 @@
 
   <script>
 
-const titulo = document.getElementById('titulo');
-const sub_titulo = document.getElementById('status');
+/* const titulo = document.getElementById('titulo'); */
+/* const sub_titulo = document.getElementById('status'); */
+/**/
+/* let idade = 17; */
+/**/
+/* if (idade <= 16) { */
+/*   titulo.innerHTML = "VOCÊ É MENOR DE IDADE"; */
+/*   sub_titulo.innerHTML = "[SEM ACESSO]"; */
+/* } else { */
+/*   titulo.innerHTML = "BEM VINDO"; */
+/*   sub_titulo.innerHTML = "Sua aplicação está pronta para ser usada"; */
+/* } */
 
-let idade = 17;
 
-if (idade <= 16) {
-  titulo.innerHTML = "VOCÊ É MENOR DE IDADE";
-  sub_titulo.innerHTML = "[SEM ACESSO]";
-} else {
-  titulo.innerHTML = "BEM VINDO";
-  sub_titulo.innerHTML = "Sua aplicação está pronta para ser usada";
-}
-
-
-/*
   // 1. Capturar o formulário pelo ID e ouvimos o evento de envio (submit)
   document.getElementById('meu-form').addEventListener('submit', function(e) {
 
@@ -47,7 +46,6 @@ if (idade <= 16) {
   })
     
 
- */
 // ===================================================/
     /* let nome = "Thiago"; */
     /* let sobrenome = "Bastos"; */
