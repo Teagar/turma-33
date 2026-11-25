@@ -1,7 +1,3 @@
-Aqui está um resumo detalhado e muito explicativo da aula, ideal para os alunos usarem como guia de consulta rápida e estudos:
-
----
-
 # Guia de Consulta: Introdução ao JavaScript no Navegador & Mini CRUD
 
 ## 1. O que é o JavaScript?
